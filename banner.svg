@@ -1,0 +1,41 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Hasitha Amarasinghe — BCS undergraduate @ University of Ruhuna, Sri Lanka</title>
+  <desc>GitHub profile banner for hasithaea</desc>
+
+  <rect width="800" height="160" rx="12" fill="#0d1117"/>
+
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-width="0.4" opacity="0.08"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="800" height="160" rx="12"/>
+    </clipPath>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;display=swap');
+      .mono { font-family: 'JetBrains Mono', monospace; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      .cursor { animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+
+  <rect width="800" height="160" rx="12" fill="url(#grid)" clip-path="url(#clip)"/>
+
+  <circle cx="740" cy="-20" r="150" fill="#534AB7" opacity="0.13"/>
+  <circle cx="80" cy="190" r="90" fill="#1D9E75" opacity="0.07"/>
+
+  <text x="48" y="52" font-family="'JetBrains Mono', monospace" font-size="12" fill="#3fb950" letter-spacing="0.05em">// hasithaea</text>
+
+  <text x="48" y="92" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="600" letter-spacing="-0.5px">
+    <tspan fill="#bc8cff">Hasitha</tspan><tspan fill="#e6edf3"> Amarasinghe</tspan>
+  </text>
+
+  <rect class="cursor" x="708" y="70" width="2" height="22" fill="#bc8cff" opacity="1">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
+  </rect>
+
+  <text x="48" y="118" font-family="'JetBrains Mono', monospace" font-size="13" fill="#79c0ff">BCS undergraduate</text>
+  <text x="222" y="118" font-family="'JetBrains Mono', monospace" font-size="13" fill="#6e7681"> · University of Ruhuna, Sri Lanka</text>
+
+  <text x="48" y="140" font-family="'JetBrains Mono', monospace" font-size="13" fill="#6e7681">Building things, breaking things, learning in public.</text>
+</svg>
