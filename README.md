@@ -55,12 +55,12 @@
     <img src="./linkedin.svg" height="60" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/hasithaea" target="_blank">
-    <img src="./github.svg" height="60" alt="GitHub" />
+  <a href="mailto:hasithaeaz@gmail.com" target="_blank">
+    <img src="./email.svg" height="60" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://x.com/hasithaea" target="_blank">
-    <img src="./x.svg" height="60" alt="X" />
+  <a href="https://github.com/hasithaea" target="_blank">
+    <img src="./github.svg" height="60" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://hub.docker.com/u/hasithaea" target="_blank">
