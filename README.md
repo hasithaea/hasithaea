@@ -59,6 +59,10 @@
     <img src="./github.svg" height="60" alt="GitHub" />
   </a>
   &nbsp;
+  <a href="https://x.com/hasithaea" target="_blank">
+    <img src="./x.svg" height="60" alt="X" />
+  </a>
+  &nbsp;
   <a href="https://hub.docker.com/u/hasithaea" target="_blank">
     <img src="./dockerhub.svg" height="60" alt="Docker Hub" />
   </a>
