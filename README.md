@@ -50,8 +50,6 @@
  
 #### Connect
 
-#### Connect
-
 <p align="left">
   <a href="https://linkedin.com/in/hasithaea" target="_blank">
     <img src="./assets/linkedin.svg" height="60" alt="LinkedIn" />
