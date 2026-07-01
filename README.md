@@ -66,4 +66,12 @@
   <a href="https://hub.docker.com/u/hasithaea" target="_blank">
     <img src="./dockerhub.svg" height="60" alt="Docker Hub" />
   </a>
+&nbsp;
+<a href="https://x.com/hasithaea" target="_blank">
+  <img src="./x.svg" height="60" alt="X" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/hasithaea" target="_blank">
+  <img src="./discord.svg" height="60" alt="Discord" />
+</a>
 </p>
