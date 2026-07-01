@@ -50,28 +50,25 @@
  
 #### Connect
 
+#### Connect
+
 <p align="left">
   <a href="https://linkedin.com/in/hasithaea" target="_blank">
-    <img src="./linkedin.svg" height="60" alt="LinkedIn" />
+    <img src="./assets/linkedin.svg" height="60" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:hasithaeaz@gmail.com" target="_blank">
-    <img src="./email.svg" height="60" alt="Email" />
+    <img src="./assets/email.svg" height="60" alt="Email" />
   </a>
-  &nbsp;
   <a href="https://github.com/hasithaea" target="_blank">
-    <img src="./github.svg" height="60" alt="GitHub" />
+    <img src="./assets/github.svg" height="60" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://hub.docker.com/u/hasithaea" target="_blank">
-    <img src="./dockerhub.svg" height="60" alt="Docker Hub" />
+    <img src="./assets/dockerhub.svg" height="60" alt="Docker Hub" />
   </a>
-&nbsp;
-<a href="https://x.com/hasithaea" target="_blank">
-  <img src="./x.svg" height="60" alt="X" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/hasithaea" target="_blank">
-  <img src="./discord.svg" height="60" alt="Discord" />
-</a>
+  <a href="https://x.com/hasithaea" target="_blank">
+    <img src="./assets/x.svg" height="60" alt="X" />
+  </a>
+  <a href="https://discord.com/users/hasithaea" target="_blank">
+    <img src="./assets/discord.svg" height="60" alt="Discord" />
+  </a>
 </p>
