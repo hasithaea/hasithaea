@@ -38,9 +38,9 @@
 #### Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasithaea&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasithaea&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
+<img src="https://hasithaea-stats.vercel.app/api?username=hasithaea&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats" />
+&nbsp;
+<img src="https://hasithaea-stats.vercel.app/api/top-langs/?username=hasithaea&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=hasithaea&theme=github-dark&hide_border=true" height="150" alt="GitHub streak" />
