@@ -34,7 +34,7 @@
 
 #### Developer Tools
  
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,latex,notion,postman&theme=dark&perline=10)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,latex,notion,postman&theme=dark&perline=10)
 &nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
