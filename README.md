@@ -7,43 +7,40 @@
 ---
  
 #### Languages
- 
+
 ![Languages](https://skillicons.dev/icons?i=c,python,java,js,php,matlab&theme=dark&perline=10)
 
 #### Frontend
- 
+
 ![Frontend](https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=10)
 
 #### Desktop Apps
- 
+
 ![Desktop](https://skillicons.dev/icons?i=electron&theme=dark&perline=10)
- 
+
 #### DevOps & Cloud
- 
-![DevOps](https://skillicons.dev/icons?i=docker,linux,azure,githubactions,bash&theme=dark&perline=10)
+
+![DevOps](https://skillicons.dev/icons?i=docker,linux,azure,githubactions,bash,github&theme=dark&perline=10)
 
 #### Deployment & Hosting
- 
-![Deploy](https://skillicons.dev/icons?i=vercel&theme=dark&perline=10)
-&nbsp;
+
+![Deploy](https://skillicons.dev/icons?i=vercel,supabase&theme=dark&perline=10)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 #### Databases
- 
+
 ![Databases](https://skillicons.dev/icons?i=mysql&theme=dark&perline=10)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 #### Developer Tools
- 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,latex,notion,postman&theme=dark&perline=10)
-&nbsp;
+
+![Tools](https://skillicons.dev/icons?i=git,vscode,idea,latex,notion,postman&theme=dark&perline=10)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 #### Design
 
 ![Design](https://skillicons.dev/icons?i=figma,ps&theme=dark&perline=10)
-&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-&nbsp;
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
  
 ---
