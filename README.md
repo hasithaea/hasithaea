@@ -83,7 +83,7 @@
   <a href="https://linkedin.com/in/hasithaea" target="_blank">
     <img src="./assets/linkedin.svg" height="60" alt="LinkedIn" />
   </a>
-  <a href="mailto:hasithaeaz@gmail.com" target="_blank">
+  <a href="mailto:hello@hasitha.dev" target="_blank">
     <img src="./assets/email.svg" height="60" alt="Email" />
   </a>
   <a href="https://github.com/hasithaea" target="_blank">
