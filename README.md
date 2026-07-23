@@ -67,7 +67,9 @@
 #### Stats
 
 <p align="left">
+ <!--
 <img src="https://hasithaea-stats.vercel.app/api?username=hasithaea&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats" />
+ --->
 &nbsp;
 <img src="https://hasithaea-stats.vercel.app/api/top-langs/?username=hasithaea&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 </p>
