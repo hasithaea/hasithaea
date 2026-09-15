@@ -56,7 +56,7 @@
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=hasithaea&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="150" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hasithaea&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=true" height="150" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hasithaea&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" height="150" alt="Top languages" />
 </p>
 <p align="left">
   <img src="https://hasithaea-streak.vercel.app?user=hasithaea&theme=github-dark&hide_border=true" height="150" alt="GitHub streak" />
